@@ -19,5 +19,5 @@ from django.contrib import admin
 from django.contrib.auth import views as auth_views
 urlpatterns = [
     url('admin/', admin.site.urls),
-    url('oyunlar/',include('oyunlar.urls')),
+    url('',include('oyunlar.urls')),
 ]

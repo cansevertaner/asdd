@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game",
+"dataUrl": "3 tas.data.unityweb",
+"asmCodeUrl": "3 tas.asm.code.unityweb",
+"asmMemoryUrl": "3 tas.asm.memory.unityweb",
+"asmFrameworkUrl": "3 tas.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
