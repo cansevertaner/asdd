@@ -100,7 +100,7 @@
                                          alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="{% url 'game_detail' i.id %}">{{ i.game_title }}</a>
+                                <a href="{% url 'game_detail' i.id %}" style="text-transform: capitalize;">{{ i.game_title }}</a>
 
                             </h4>
                             <p class="card-text" style="font-size: 10px">Oyun açıklaması:{{i.game_text}}</p>

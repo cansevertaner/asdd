@@ -4,73 +4,26 @@
     <list default="true" id="3e811072-b8f9-4559-b7ff-ef61dc905c17" name="Default" comment="asd1232">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/images/3916-2-0a7c8ebc7315c238b3ab1d13b4757fe8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/images/unity2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/images/unity3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/images/unity4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/images/unityg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/shop-homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/static/shop-homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/Build/UnityLoader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/Build/unity2.data.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/Build/unity2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/Build/unity2.wasm.code.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/Build/unity2.wasm.framework.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/UnityProgress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/fullscreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/progressEmpty.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/progressEmpty.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/progressFull.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/progressFull.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/progressLogo.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/progressLogo.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/TemplateData/webgl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/Build/UnityLoader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/Build/unityg.asm.code.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/Build/unityg.asm.framework.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/Build/unityg.asm.memory.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/Build/unityg.data.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/Build/unityg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/UnityProgress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/fullscreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/progressEmpty.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/progressEmpty.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/progressFull.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/progressFull.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/progressLogo.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/progressLogo.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/TemplateData/webgl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unity3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/Build/UnityLoader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/Build/unityg.asm.code.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/Build/unityg.asm.framework.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/Build/unityg.asm.memory.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/Build/unityg.data.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/Build/unityg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/UnityProgress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/fullscreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/progressEmpty.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/progressEmpty.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/progressFull.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/progressFull.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/progressLogo.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/progressLogo.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/TemplateData/webgl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/static/unityg/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/Build/3 tas.asm.code.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/Build/3 tas.asm.framework.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/Build/3 tas.asm.memory.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/Build/3 tas.data.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/Build/3 tas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/Build/UnityLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/UnityProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/progressEmpty.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/progressEmpty.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/progressFull.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/progressFull.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/progressLogo.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/progressLogo.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/TemplateData/webgl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/3 tas/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oyunlar/templates/oyunlar/game_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/templates/oyunlar/game_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/templates/oyunlar/hakkimizda.html" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/templates/oyunlar/hakkimizda.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oyunlar/templates/oyunlar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/templates/oyunlar/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/templates/oyunlar/login_sign.html" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/templates/oyunlar/login_sign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/templates/oyunlar/new_register.html" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/templates/oyunlar/new_register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunlar/templates/oyunlar/profil.html" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/templates/oyunlar/profil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/oyunsite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oyunsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/oyunsite/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,21 +72,21 @@
           <entry key="Procfile" value="3" />
           <entry key="css" value="12" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="41" />
+          <entry key="html" value="43" />
           <entry key="js" value="11" />
           <entry key="json" value="6" />
           <entry key="keep" value="1" />
-          <entry key="py" value="46" />
+          <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="12" />
-          <entry key="HTML" value="41" />
+          <entry key="HTML" value="43" />
           <entry key="JSON" value="6" />
           <entry key="JavaScript" value="11" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="46" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -142,39 +95,30 @@
           <entry key="Procfile" value="16" />
           <entry key="Python Console" value="357" />
           <entry key="css" value="123" />
-          <entry key="html" value="2747" />
+          <entry key="html" value="2751" />
           <entry key="js" value="306" />
-          <entry key="py" value="1732" />
+          <entry key="py" value="1738" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="123" />
-          <entry key="HTML" value="2747" />
+          <entry key="HTML" value="2751" />
           <entry key="JavaScript" value="306" />
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="2149" />
+          <entry key="Python" value="2155" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/hakkimizda.html">
+        <entry file="file://$PROJECT_DIR$/oyunsite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="386">
+              <caret line="130" column="23" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -243,16 +187,16 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/oyunsite/wsgi.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/oyunsite/settings.py" />
         <option value="$PROJECT_DIR$/oyunlar/urls.py" />
         <option value="$PROJECT_DIR$/oyunsite/urls.py" />
-        <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/index.html" />
         <option value="$PROJECT_DIR$/oyunlar/static/shop-homepage.css" />
-        <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/game_detail.html" />
         <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/login_sign.html" />
         <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/new_register.html" />
         <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/profil.html" />
         <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/hakkimizda.html" />
+        <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/game_detail.html" />
+        <option value="$PROJECT_DIR$/oyunlar/templates/oyunlar/index.html" />
+        <option value="$PROJECT_DIR$/oyunsite/settings.py" />
       </list>
     </option>
   </component>
@@ -426,14 +370,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.47785234" visible="true" weight="0.27234042" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4771812" visible="true" weight="0.27234042" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.83557045" weight="0.39148936" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52214766" side_tool="true" visible="true" weight="0.27234042" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8348993" weight="0.39148936" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5228188" side_tool="true" visible="true" weight="0.27234042" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49402392" weight="0.32714617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -686,13 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oyunsite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="129" column="16" selection-start-line="122" selection-start-column="11" selection-end-line="129" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/login_sign.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -714,17 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/game_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oyunlar/static/vendor/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -739,17 +665,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/index.html">
+    <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/hakkimizda.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        <state relative-caret-position="414">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/hakkimizda.html">
+    <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="130">
+          <caret line="102" column="105" selection-start-line="102" selection-start-column="105" selection-end-line="102" selection-end-column="105" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oyunlar/templates/oyunlar/game_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="105" column="102" selection-start-line="105" selection-start-column="102" selection-end-line="105" selection-end-column="102" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oyunsite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="130" column="23" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
         </state>
       </provider>
     </entry>
