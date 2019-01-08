@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e811072-b8f9-4559-b7ff-ef61dc905c17" name="Default" comment="asd1232" />
+    <list default="true" id="3e811072-b8f9-4559-b7ff-ef61dc905c17" name="Default" comment="asd1232">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/misket/Build/UnityLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/static/misket/Build/UnityLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/misket/Build/misket.json" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/static/misket/Build/misket.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyunlar/static/misket/TemplateData/UnityProgress.js" beforeDir="false" afterPath="$PROJECT_DIR$/oyunlar/static/misket/TemplateData/UnityProgress.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,9 +334,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15704697" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15704697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,8 +348,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8322148" visible="true" weight="0.42978725" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.16778524" side_tool="true" visible="true" weight="0.42978725" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.8315436" visible="true" weight="0.42978725" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.16845638" side_tool="true" visible="true" weight="0.42978725" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49402392" weight="0.32714617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
